@@ -1,0 +1,14 @@
+{
+  "hash": "d15d500bc52f0b7d5ac3eec468b5a76b",
+  "result": {
+    "markdown": "---\ntitle: \"Hello World\"\nauthor: \"Jay Maxwell\"\ndate: \"2023-05-31\"\ncategories: [dspg]\n---\n\n\n## Hello World\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1 \n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

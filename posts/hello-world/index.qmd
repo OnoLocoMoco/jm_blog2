@@ -1,0 +1,14 @@
+---
+title: "Hello World"
+author: "Jay Maxwell"
+date: "2023-05-31"
+categories: [dspg]
+---
+
+## Hello World
+
+```{r codeChunk1}
+
+1 + 1 
+
+```
